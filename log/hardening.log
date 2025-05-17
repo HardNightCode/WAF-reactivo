@@ -1,0 +1,138 @@
+2025-05-10 23:44:35.259450: 3 eventos, 6 reglas
+2025-05-10 23:46:33.723995: 6 eventos, 12 reglas
+2025-05-10 23:50:01.694587: 6 eventos, 12 reglas
+2025-05-10 23:51:15.960405: 7 eventos, 14 reglas
+2025-05-10 23:55:01.967053: 1 eventos, 2 reglas
+2025-05-10 23:56:52.132016: 11 eventos, 22 reglas
+2025-05-11 00:00:02.317840: 11 eventos, 22 reglas
+2025-05-11 00:30:01.807367: 4 eventos, 8 reglas
+2025-05-11 00:39:35.983457: 10 eventos, 10 reglas
+2025-05-11 00:40:02.129118: 10 eventos, 10 reglas
+2025-05-11 00:40:24.873416: 11 eventos, 11 reglas
+2025-05-11 00:41:16.900982: 11 eventos, 11 reglas
+2025-05-11 00:41:59.752367: 12 eventos, 12 reglas
+2025-05-11 00:44:04.223870: 21 eventos, 21 reglas
+2025-05-11 00:45:01.401153: 12 eventos, 12 reglas
+2025-05-11 00:52:44.607803: 1 eventos, 2 reglas
+2025-05-11 00:52:44.712117: 1 eventos, 4 reglas
+2025-05-11 00:52:50.057303: 1 eventos, 2 reglas
+2025-05-11 00:52:50.156130: 1 eventos, 4 reglas
+2025-05-11 00:53:04.703847: 1 eventos, 2 reglas
+2025-05-11 00:53:04.807457: 1 eventos, 4 reglas
+2025-05-11 00:55:17.030130: 1 eventos, 1 IPs, 1 patrones
+2025-05-11 01:24:49.652520: 1 eventos, 1 IPs, 1 patrones
+2025-05-17 16:40:49.289705: 3 eventos, 1 IPs, 3 patrones
+2025-05-17 17:00:24.409046: 132 eventos, 1 IPs, 51 patrones
+2025-05-17 17:05:01.764089: 392 eventos, 1 IPs, 2 patrones
+2025-05-17 17:06:38.334146: 431 eventos, 1 IPs, 2 patrones
+2025-05-17 17:50:01.618355: ERROR recargando Apache: AH00526: Syntax error on line 78 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error parsing actions: Unknown action: ;'
+2025-05-17 17:50:01.618390: 518 eventos, 1 IPs, 517 patrones
+2025-05-17 18:00:02.187243: ERROR recargando Apache: AH00526: Syntax error on line 35 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 18:00:02.187355: 1383 eventos, 1 IPs, 1349 patrones
+2025-05-17 18:05:01.534247: ERROR recargando Apache: AH00526: Syntax error on line 548 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error parsing actions: Unknown action: 1'
+2025-05-17 18:05:01.534285: 2040 eventos, 1 IPs, 1847 patrones
+2025-05-17 18:08:00.947410: ERROR recargando Apache: AH00526: Syntax error on line 7 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error parsing actions: Unknown action: Vulnerable')>'
+2025-05-17 18:08:00.947447: 2333 eventos, 1 IPs, 2035 patrones
+2025-05-17 18:15:01.524596: ERROR recargando Apache: AH00526: Syntax error on line 548 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error parsing actions: Unknown action: 1'
+2025-05-17 18:15:01.524626: 1831 eventos, 1 IPs, 1660 patrones
+2025-05-17 18:40:02.549815: ERROR recargando Apache: AH00526: Syntax error on line 399 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 18:40:02.549845: 4065 eventos, 1 IPs, 3800 patrones
+2025-05-17 19:19:49.524078: ERROR recargando Apache: AH00526: Syntax error on line 107 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:19:49.524145: 4926 eventos, 1 IPs, 4612 patrones
+2025-05-17 19:20:02.030222: ERROR recargando Apache: AH00526: Syntax error on line 574 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:20:02.030333: 4251 eventos, 1 IPs, 3968 patrones
+2025-05-17 19:25:01.537619: ERROR recargando Apache: AH00526: Syntax error on line 1200 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:25:01.537648: 1842 eventos, 1 IPs, 1633 patrones
+2025-05-17 19:32:35.952825: ERROR recargando Apache: AH00526: Syntax error on line 512 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:32:35.952922: 851 eventos, 1 IPs, 648 patrones
+2025-05-17 19:36:22.723353: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:36:22.723547: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:36:41.604321: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:36:41.604361: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:40:01.797290: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:40:01.797320: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:41:19.543861: ERROR recargando Apache: AH00526: Syntax error on line 277 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:41:19.543898: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:42:10.032192: ERROR recargando Apache: AH00526: Syntax error on line 277 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:42:10.032230: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:42:17.458234: ERROR recargando Apache: AH00526: Syntax error on line 277 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:42:17.458294: 4910 eventos, 1 IPs, 4474 patrones
+2025-05-17 19:45:27.292291: 86 eventos, 1 IPs, 54 patrones
+2025-05-17 19:46:56.323044: ERROR recargando Apache: AH00526: Syntax error on line 453 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error creating rule: Error compiling pattern (offset 57): (null)
+2025-05-17 19:46:56.323110: 1640 eventos, 1 IPs, 1386 patrones
+2025-05-17 19:47:34.034054: ERROR recargando Apache: AH00526: Syntax error on line 453 of /etc/modsecurity.d/auto/modsec_generated.conf:
+Error creating rule: Error compiling pattern (offset 57): (null)
+2025-05-17 19:47:34.034093: 1640 eventos, 1 IPs, 1386 patrones
+2025-05-17 19:50:01.876684: ERROR recargando Apache: AH00526: Syntax error on line 608 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:50:01.876837: 1640 eventos, 1 IPs, 1386 patrones
+2025-05-17 19:50:04.310674: ERROR recargando Apache: AH00526: Syntax error on line 608 of /etc/modsecurity.d/auto/modsec_generated.conf:
+SecRule takes two or three arguments, rule target, operator and optional action list
+2025-05-17 19:50:04.310712: 1640 eventos, 1 IPs, 1386 patrones
+2025-05-17 19:54:40.132191: 1640 eventos, 1 IPs, 1380 patrones
+2025-05-17 19:55:02.881360: 1640 eventos, 1 IPs, 1380 patrones
+2025-05-17 19:58:12.653672: 2 eventos, 1 IPs, 2 patrones
+2025-05-17 20:00:02.563611: 3 eventos, 1 IPs, 2 patrones
+2025-05-17 20:05:02.443441: 3 eventos, 1 IPs, 2 patrones
+2025-05-17 20:20:02.444086: 2 eventos, 1 IPs, 1 patrones
+2025-05-17 20:25:02.129025: 5 eventos, 2 IPs, 4 patrones
+2025-05-17 20:30:01.991999: 3 eventos, 1 IPs, 3 patrones
+2025-05-17 22:00:18.226763: 1 eventos, 1 IPs, 1 patrones
+2025-05-17 22:07:52.737175: 4 eventos, 2 IPs, 3 patrones
+2025-05-17 22:10:02.660922: 7 eventos, 2 IPs, 3 patrones
+2025-05-17 22:12:54.794108: 7 eventos, 2 IPs, 3 patrones
+2025-05-17 22:25:11.520111: 6 eventos, 1 IPs, 3 patrones
+2025-05-17 22:30:02.592834: 6 eventos, 1 IPs, 3 patrones
+2025-05-17 22:33:57.389589: 5 eventos, 1 IPs, 2 patrones
+2025-05-17 22:35:02.362588: 5 eventos, 1 IPs, 2 patrones
+2025-05-17 22:40:44.331757: 3 eventos, 1 IPs, 0 patrones
+2025-05-17 22:45:02.757583: 3 eventos, 1 IPs, 0 patrones
+2025-05-17 22:48:04.783105: 3 eventos, 0 IPs, 0 patrones
+2025-05-17 22:50:02.623630: 3 eventos, 0 IPs, 0 patrones
+2025-05-17 23:00:01.802799: 1 eventos, 1 IPs, 1 patrones
+2025-05-17 23:00:02.201112: 1 eventos, 1 IPs, 1 patrones
+2025-05-17 23:05:02.041907: 4 eventos, 1 IPs, 1 patrones
+2025-05-17 23:05:02.351717: ERROR Telegram: HTTP Error 404: Not Found
+2025-05-17 23:10:02.355666: 3 eventos, 0 IPs, 0 patrones
+2025-05-17 23:18:28.084172: 3 eventos, 0 IPs, 0 patrones
+2025-05-17 23:20:02.909202: 3 eventos, 0 IPs, 0 patrones
+2025-05-17 23:20:27.299266: 4 eventos, 1 IPs, 1 patrones
+2025-05-17 23:25:27.938016: 1 eventos, 1 IPs, 1 patrones
+2025-05-17 23:42:42.247908: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/hardening/modsec_generated.conf:
+ModSecurity: Found another rule with the same id
+2025-05-17 23:42:42.248043: 7 eventos, 1 IPs, 1 patrones
+2025-05-17 23:43:36.899587: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/hardening/modsec_generated.conf:
+ModSecurity: Found another rule with the same id
+2025-05-17 23:43:36.899661: 7 eventos, 1 IPs, 1 patrones
+2025-05-18 00:09:26.070307: 3 eventos, 0 IPs, 0 patrones
+2025-05-18 00:10:07.851746: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/hardening/modsec_generated.conf:
+ModSecurity: Found another rule with the same id
+2025-05-18 00:10:07.851780: 4 eventos, 1 IPs, 1 patrones
+2025-05-18 00:13:43.292016: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/hardening/modsec_generated.conf:
+ModSecurity: Found another rule with the same id
+2025-05-18 00:13:43.292139: 4 eventos, 1 IPs, 1 patrones
+2025-05-18 00:20:43.950977: ERROR recargando Apache: AH00526: Syntax error on line 2 of /etc/hardening/modsec_generated.conf:
+ModSecurity: Found another rule with the same id
+2025-05-18 00:20:43.951016: 1 eventos, 1 IPs, 1 patrones
+2025-05-18 00:31:48.539184: 1 eventos, 1 IPs, 1 patrones
+2025-05-18 00:32:23.788808: 2 eventos, 1 IPs, 1 patrones
+2025-05-18 00:36:58.533007: 2 eventos, 1 IPs, 1 patrones
+2025-05-18 00:37:39.439744: 2 eventos, 1 IPs, 1 patrones
+2025-05-18 00:46:35.786978: 2 eventos, 1 IPs, 1 patrones
